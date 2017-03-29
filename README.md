@@ -1,6 +1,6 @@
 # Golay_Hadamard
 
-simulations codes for Golay Hadamard matrices in compressive sensing.
+Simulations codes for Golay Hadamard matrices in compressive sensing. The sketch codes are for demonstration purpose， and have not been optmized. 
 
 Please refer to paper: 
 
